@@ -33,37 +33,12 @@
 
 ## 🚀 About Me
 
-```java
-class DebarpitMohanta {
-
-    String role = "Software Developer";
-
-    String education = "B.Tech in Computer Science & Engineering";
-
-    String[] languages = {
-        "Java",
-        "Python",
-        "SQL"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Software Engineering"
-    };
-
-    String[] learning = {
-        "Spring Boot",
-        "React",
-        "Advanced Python",
-        "System Design"
-    };
-
-    boolean openToWork = true;
-
-}
-```
+- 🎓 B.Tech in Computer Science & Engineering
+- 💼 Software Developer passionate about building real-world applications
+- 💻 Skilled in Java, Python, SQL, HTML, CSS and JavaScript
+- 🤖 Interested in Artificial Intelligence, Computer Vision and Backend Development
+- 🌱 Currently learning Spring Boot, React and System Design
+- 🚀 Open to Full-Time Software Developer opportunities
 
 ## 💼 Experience
 
@@ -151,28 +126,33 @@ AI-powered road risk detection system using Computer Vision techniques for detec
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DebarpitMohanta&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebarpitMohanta&layout=compact&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DebarpitMohanta&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebarpitMohanta&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DebarpitMohanta&theme=tokyonight" />
-</p>
 
----
+<img src="https://streak-stats.demolab.com?user=DebarpitMohanta&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DebarpitMohanta&theme=tokyonight&row=1&column=7" />
-</p>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=DebarpitMohanta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebarpitMohanta&theme=tokyo-night" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebarpitMohanta&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -199,7 +179,7 @@ AI-powered road risk detection system using Computer Vision techniques for detec
 
 - 📧 **Email:** debarpitmohanta1@gmail.com
 - 💻 **GitHub:** https://github.com/DebarpitMohanta
-- 💼 **LinkedIn:** *(Add your LinkedIn profile URL here)*
+- 💼 **LinkedIn:** https://www.linkedin.com/in/debarpit-mohanta/
 
 ---
 
