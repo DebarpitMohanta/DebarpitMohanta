@@ -135,16 +135,16 @@ AI-powered road risk detection system using Computer Vision techniques for detec
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=DebarpitMohanta&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DebarpitMohanta&theme=tokyonight&hide_border=true" />
+</p>
 
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DebarpitMohanta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=DebarpitMohanta&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ## 📈 Activity Graph
