@@ -141,12 +141,20 @@ AI-powered road risk detection system using Computer Vision techniques for detec
 
 </p>
 
-## 🏆 GitHub Trophies
+## 📚 Certifications
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DebarpitMohanta&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
+- ☕ Java Development – Naresh IT
+- 💼 Software Engineering Virtual Internship – Accenture
 
+---
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- React
+- Advanced Python
+- System Design
+- Data Structures & Algorithms
 ## 📈 Activity Graph
 
 <p align="center">
