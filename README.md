@@ -1,30 +1,69 @@
+<div align="center">
+
 # 👋 Hi, I'm Debarpit Mohanta
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer;Java+Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast;Open+to+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast;Open+to+Work" />
+
+<br>
+
+### 💻 Software Developer | Java | Python | AI Enthusiast
+
+<p>
+<a href="https://github.com/DebarpitMohanta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:debarpitmohanta1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DebarpitMohanta&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=DebarpitMohanta&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech in Computer Science & Engineering
+```java
+class DebarpitMohanta {
 
-💻 Passionate Software Developer with experience in building AI-powered and backend applications using **Java** and **Python**.
+    String role = "Software Developer";
 
-🤖 Interested in **Artificial Intelligence, Computer Vision, Backend Development, and Software Engineering**.
+    String education = "B.Tech in Computer Science & Engineering";
 
-🌱 Currently learning **Spring Boot, React, Advanced Python, and Data Structures & Algorithms**.
+    String[] languages = {
+        "Java",
+        "Python",
+        "SQL"
+    };
 
-💼 Open to **Software Developer, Java Developer, Python Developer, and Backend Developer** opportunities.
+    String[] interests = {
+        "Backend Development",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Software Engineering"
+    };
 
-📍 Bhubaneswar, Odisha, India
+    String[] learning = {
+        "Spring Boot",
+        "React",
+        "Advanced Python",
+        "System Design"
+    };
 
----
+    boolean openToWork = true;
+
+}
+```
 
 ## 💼 Experience
 
