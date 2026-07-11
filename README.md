@@ -6,7 +6,7 @@
 
 <br>
 
-### 💻 Software Developer | Java | Python | C & C++ | AI Enthusiast
+### 💻 Software Developer | Java | Python | C | C++ | AI Enthusiast
 
 <p>
 <a href="https://github.com/DebarpitMohanta">
