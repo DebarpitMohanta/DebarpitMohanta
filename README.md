@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Debarpit Mohanta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast;Open+to+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;C&C+++Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast;Open+to+Work" />
 
 <br>
 
-### 💻 Software Developer | Java | Python | AI Enthusiast
+### 💻 Software Developer | Java | Python | C & C++ | AI Enthusiast
 
 <p>
 <a href="https://github.com/DebarpitMohanta">
@@ -35,7 +35,7 @@
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 💼 Software Developer passionate about building real-world applications
-- 💻 Skilled in Java, Python, SQL, HTML, CSS and JavaScript
+- 💻 Skilled in Java, C, C++, Python, SQL, HTML, CSS and JavaScript
 - 🤖 Interested in Artificial Intelligence, Computer Vision and Backend Development
 - 🌱 Currently learning Spring Boot, React and System Design
 - 🚀 Open to Full-Time Software Developer opportunities
@@ -55,6 +55,7 @@
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
@@ -87,6 +88,11 @@ AI-powered road risk detection system using Computer Vision techniques for detec
 🔗 Repository: https://github.com/DebarpitMohanta/road-risk-detection-system
 
 ---
+### 🏓 C++ Pong Game
+
+A classic Pong game developed in C++ demonstrating object-oriented programming, collision detection, keyboard controls, and real-time gameplay.
+
+🔗 Repository: https://github.com/DebarpitMohanta/cpp-pong-game
 
 ### 👨‍💻 Face Recognition Based Automated Attendance System
 
@@ -123,6 +129,8 @@ AI-powered road risk detection system using Computer Vision techniques for detec
 
 ---
 
+> "Building practical software through clean code and continuous learning."
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -147,14 +155,14 @@ AI-powered road risk detection system using Computer Vision techniques for detec
 - 💼 Software Engineering Virtual Internship – Accenture
 
 ---
-
 ## 🌱 Currently Learning
 
+- Modern C++
+- Data Structures & Algorithms
 - Spring Boot
 - React
-- Advanced Python
 - System Design
-- Data Structures & Algorithms
+  
 ## 📈 Activity Graph
 
 <p align="center">
@@ -172,17 +180,6 @@ AI-powered road risk detection system using Computer Vision techniques for detec
 </p>
 
 ---
-
-## 🌱 Currently Learning
-
-- Spring Boot
-- React
-- Advanced Python
-- Data Structures & Algorithms
-- System Design
-
----
-
 ## 📫 Connect With Me
 
 - 📧 **Email:** debarpitmohanta1@gmail.com
