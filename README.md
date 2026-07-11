@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Debarpit Mohanta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;C&C+++Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast;Open+to+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;C+Developer;C%2B%2B+Developer;Java+Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast;Open+to+Work" />
 
 <br>
 
@@ -55,6 +55,7 @@
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
