@@ -102,6 +102,8 @@ A classic Pong game developed in C++ demonstrating object-oriented programming, 
 
 🔗 Repository: https://github.com/DebarpitMohanta/cpp-pong-game
 
+---
+
 ### 👨‍💻 Face Recognition Based Automated Attendance System
 
 - Real-time Face Recognition
