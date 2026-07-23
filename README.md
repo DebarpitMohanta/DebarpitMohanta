@@ -83,6 +83,11 @@
 
 ## 🚀 Featured Projects
 
+### 🏦 Banking Management System ⭐
+A console-based Banking Management System built with Core Java, demonstrating OOP, Collections, File Handling, and Exception Handling.
+
+🔗 Repository: https://github.com/DebarpitMohanta/Banking_Management_System
+
 ### 🚦 Road Risk Detection System
 AI-powered road risk detection system using Computer Vision techniques for detecting road hazards.
 
