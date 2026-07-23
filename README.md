@@ -88,6 +88,8 @@ A console-based Banking Management System built with Core Java, demonstrating OO
 
 🔗 Repository: https://github.com/DebarpitMohanta/Banking_Management_System
 
+---
+
 ### 🚦 Road Risk Detection System
 AI-powered road risk detection system using Computer Vision techniques for detecting road hazards.
 
