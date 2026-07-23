@@ -163,6 +163,8 @@ A classic Pong game developed in C++ demonstrating object-oriented programming, 
 
 - ☕ Java Development – Naresh IT
 - 💼 Software Engineering Virtual Internship – Accenture
+- 💼 Java Development Internship – Cognifyz Technologies
+- 🏆 Salesforce Agentblazer Champion
 
 ---
 ## 🌱 Currently Learning
